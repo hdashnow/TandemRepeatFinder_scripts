@@ -3,7 +3,7 @@ TandemRepeatFinder scripts
 
 Sample Tandem Repeat Finder command:
 
-trf my_sequence.fasta 2 7 7 80 10 6 6 -d
+trf my_sequence.fasta 2 7 7 80 10 6 6 -d  # This will find STRs with 1-6bp repeat units and at least 3 copies. It is a relatively low threshold, so you may want to do additional filtering.
 
 output: my_sequence.fasta.2.7.7.80.10.6.6.dat
 -d is required to produce the .dat file
