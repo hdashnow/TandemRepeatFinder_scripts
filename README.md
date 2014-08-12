@@ -1,5 +1,8 @@
 TandemRepeatFinder scripts
 ==========================
+You can get TRF here: http://tandem.bu.edu/trf/trf.download.html
+
+I'm using the Linux 64 version.
 
 Sample Tandem Repeat Finder command:
 
