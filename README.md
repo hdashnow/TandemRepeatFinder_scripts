@@ -34,3 +34,8 @@ Usage: python TRFdat_to_bed.py [-h] --dat DAT --bed BED
 Sample command:
 
 python TRFdat_to_bed.py --dat my_sequence.fasta.2.7.7.80.10.6.6.dat --bed my_sequence.fasta.2.7.7.80.10.6.6.bed
+
+
+
+Note: 
+Tested in Python version 2.6
